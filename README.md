@@ -1,4 +1,4 @@
-# BART-finetune
+# GenAI-Text-Summarizer
 Fine-Tuning BART Model for Automated Text Summarization
 
 ## Project Overview
